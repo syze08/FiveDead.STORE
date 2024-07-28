@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(30, 29, 29);
+margin: 0px;
+}
+
+.linha{
+padding: 3px 3px 3px 100px;
+margin-top: 50px;
+animation: linhaRGB 6s infinite ease-in-out;
+}
+
+@keyframes linhaRGB {
+    0%{
+        background-color: blueviolet;
+        
+            }
+    15%{
+background-color: blueviolet;
+    }
+    25%{
+        background-color: blue;
+    }
+    35%{
+        background-color: deeppink;
+    }
+    45%{
+        background-color: red;
+    }
+    55%{
+        background-color: green;
+    }
+    70%{
+        background-color: chartreuse;
+    }
+    85%{
+        background-color: orangered;
+    }
+    95%{
+        background-color: gold;
+    }
+    100%{
+        background-color: blueviolet;
+    }
+}

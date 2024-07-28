@@ -1,0 +1,30 @@
+.nav-content{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+
+.nav-flex{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    gap: 34px;
+}
+
+.nav-flex img{
+    width: 45px;
+    margin: 0px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 100%;
+}
+
+.nav-flex img:hover{
+background-color: rgb(16, 15, 15);
+
+}
+
+
+.nav-flex li{
+    list-style: none;
+}

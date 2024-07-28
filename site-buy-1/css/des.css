@@ -1,0 +1,45 @@
+.titulo-buy{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 100px;
+   font-style: italic;
+}
+
+.titulo{
+    margin-top: 40px;
+}
+
+
+.t1{
+    font-size: 27px;
+    text-align: center;
+    color: white;
+}
+.t1 span{
+    color: green;
+    text-decoration: underline;
+}
+
+.text-content{
+    margin-top: 60px;
+}
+.text-content h2{
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+
+.j{
+    color: rgb(154, 11, 243);
+    margin-right: 10px;
+}
+.jj{
+    color:green ;
+    text-decoration: underline;
+}
+.jjj{
+    color: yellow;
+    text-decoration: underline;
+}

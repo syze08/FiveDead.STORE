@@ -1,0 +1,36 @@
+.titulo-buy{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 100px;
+   font-style: italic;
+}
+
+.titulo{
+    margin-top: 40px;
+}
+
+
+.t1{
+    font-size: 27px;
+    text-align: center;
+    color: white;
+}
+.t1 span{
+    color: green;
+    text-decoration: underline;
+}
+
+.text-content{
+    margin-top: 60px;
+}
+.text-content h3{
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+
+.text-content h3 span{
+    color: blueviolet;
+}

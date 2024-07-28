@@ -1,0 +1,25 @@
+body{
+    margin: 250px;
+    background-color: rgb(16, 16, 16);
+}
+
+.content-buy{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-sup-buy{
+    background-color: rgb(35, 35, 35);
+    padding: 70px;
+    margin-top: 100px;
+    border-radius: 8px;
+}
+.inicio{
+text-decoration: none;
+color: white;
+font-size: 20px;
+padding: 10px;
+border-radius: 6px;
+border: 2px solid purple;
+}
